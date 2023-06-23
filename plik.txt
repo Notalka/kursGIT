@@ -1,1 +1,3 @@
 ALa ma kot a kot ma ale
+
+Dodanie nowej, eksperymentalnej funkcjonalności.
